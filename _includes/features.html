@@ -25,13 +25,11 @@
 
     <!-- Supported Airlines Section -->
     <div class="airlines">
-        <div class="featureText">
+        <div class="featureText airlineNames">
             <h3>Supported Airlines</h3>
-            <ul class="airlines-list">
-                {% for airline in site.airlines %}
-                <li>{{ airline.name }}</li>
-                {% endfor %}
-            </ul>
+            {% for airline in site.airlines %}
+                <p>{{ airline.name }}</p>
+            {% endfor %}
         </div>
     </div>
 
