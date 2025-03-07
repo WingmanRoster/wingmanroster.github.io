@@ -526,7 +526,7 @@ nav > ul li a:active {
 	color: $feature-title-color;
 }
 
-.featureText > p {
+.featureText > p, .airlines-list li {
 	color: $feature-text-color;
 	margin-top: 8px;
 	line-height: 1.5;

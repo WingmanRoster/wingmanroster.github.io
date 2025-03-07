@@ -33,11 +33,11 @@
         </div>
         <div class="featureText">
             <h3>Supported Airlines</h3>
-            <div class="airlines-list">
+            <ul class="airlines-list">
                 {% for airline in site.airlines %}
-                <span class="airline-item">{{ airline.name }}</span>
+                <li>{{ airline.name }}</li>
                 {% endfor %}
-            </div>
+            </ul>
         </div>
     </div>
 
