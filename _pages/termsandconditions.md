@@ -9,6 +9,8 @@ include_in_header: false
 
 These terms and conditions apply to the Wingman app (hereby referred to as "Application") for mobile devices that was created by Wingman (hereby referred to as "Service Provider") as a Freemium service.
 
+By using our services, you agree to abide by the Apple End User License Agreement (EULA). Please review the full Apple EULA at: [Apple's EULA Link](https://www.apple.com/legal/internet-services/itunes/)
+
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
 The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
