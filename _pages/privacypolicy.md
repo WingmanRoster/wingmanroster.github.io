@@ -29,6 +29,8 @@ The Service Provider may use the information you provided to contact you from ti
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
+To provide the core functionalities of the app, we store certain types of usage-related data. This includes encrypted roster information, vacation entries and flight-related statistics. This data is stored securely and is not linked to personally identifiable information such as names or IDs.
+
 **Third Party Access**
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
