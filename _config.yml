@@ -62,8 +62,10 @@ features                                  :
 # Supported Airlines
 airlines:
   - name: Aer Lingus
-  - name: BA CityFlyer
+  - name: British Airways CityFlyer
   - name: FlyDubai
+  - name: Iberia Express
+  - name: Vietjet Air
   - name: Wizz Air
 
 
