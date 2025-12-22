@@ -61,7 +61,6 @@ features                                  :
 
 # Supported Airlines
 airlines:
-  - name: Aer Lingus
   - name: Air Asia
   - name: Air Astana
   - name: Arajet
