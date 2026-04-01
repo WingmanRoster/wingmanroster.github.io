@@ -61,24 +61,84 @@ features                                  :
 
 # Supported Airlines
 airlines:
+  - name: Aer Lingus
+  - name: Aerovias DAP
   - name: Air Asia
   - name: Air Astana
+  - name: Air Belgium
+  - name: Air Cambodia
+  - name: Air Creebec
+  - name: Air Greenland
+  - name: Air Inuit
+  - name: Air Serbia
+  - name: Air Transat
+  - name: Animawings
   - name: Arajet
+  - name: ASL
   - name: Atlas Air
-  - name: British Airways CityFlyer/EuroFlyer
+  - name: Avion Express
+  - name: Azerbaijan Airlines
+  - name: BA CityFlyer/EuroFlyer
+  - name: Bamboo Airways
+  - name: Binter Canarias
+  - name: Cargolux
+  - name: Cebu Pacific
+  - name: Chair Airlines
+  - name: China Airlines
+  - name: CHC Helicopters
   - name: Copa Airlines
+  - name: DHL Air
+  - name: DHL Austria
+  - name: DHL Aviation BSC
+  - name: DHL LATAM
   - name: EasyJet
-  - name: FlyDubai
+  - name: EAT
+  - name: Etihad
+  - name: EuroAtlantic Airways
+  - name: flyadeal
+  - name: Flydubai
+  - name: Flynas
+  - name: FlySafair
+  - name: Gulf Air
+  - name: HiSky
+  - name: HK Express
+  - name: Horizon Air
   - name: Iberia Express
+  - name: Ibom Air
   - name: IndiGo
+  - name: Jazeera Airways
+  - name: JetSmart
+  - name: Kenya Airways
+  - name: Kuwait Airways
+  - name: Level
+  - name: Lion Group
+  - name: Marabu
+  - name: Mavi Gok
+  - name: National Airlines
   - name: Oman Air
+  - name: Pelita Air
+  - name: Plus Ultra
+  - name: Precision Air
+  - name: Rise Air
+  - name: Royal Brunei Airlines
+  - name: Royal Jordanian
+  - name: RwandAir
+  - name: S7 Airlines
+  - name: SalamAir
+  - name: SATA
+  - name: SATENA
+  - name: Scoot
+  - name: SKY Express
+  - name: Smartwings
   - name: Swiftair
+  - name: TAROM
   - name: Vietjet Air
+  - name: Vietravel Airlines
+  - name: Virgin Atlantic
   - name: Viva Aerobus
   - name: Volotea
   - name: Vueling
   - name: Wizz Air
-
 
 # Theme Settings
 topbar_color                              : "#000000"
