@@ -71,6 +71,7 @@ airlines:
   - name: Air Greenland
   - name: Air Inuit
   - name: Air Serbia
+  - name: Air Tanker
   - name: Air Transat
   - name: Animawings
   - name: Arajet
@@ -114,6 +115,7 @@ airlines:
   - name: Lion Group
   - name: Marabu
   - name: Mavi Gok
+  - name: MSC Air Cargo
   - name: National Airlines
   - name: Oman Air
   - name: Pelita Air
@@ -130,6 +132,7 @@ airlines:
   - name: Scoot
   - name: SKY Express
   - name: Smartwings
+  - name: Sun PhuQuoc Airways
   - name: Swiftair
   - name: TAROM
   - name: Vietjet Air
